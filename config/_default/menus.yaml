@@ -1,0 +1,79 @@
+leftnav:
+- identifier: edb1fe0f-4cfc-b2f5-59b6-2afca748678e
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 0d6acd68-d7dc-ec63-d6a6-e432e407ac68
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 5b0c885f-3fac-fee9-cfd6-aca753d845eb
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights/
+  weight: 30
+- identifier: e6e427dc-aca8-8e23-0c62-3f20a1589c66
+  name: Background and Inspiration for the Class
+  pageRef: /pages/instructor-insights/background-and-inspiration-for-the-class
+  parent: 5b0c885f-3fac-fee9-cfd6-aca753d845eb
+  weight: 40
+- identifier: 3296b023-4342-68b4-2cad-c8eab5a26f9f
+  name: Teaching Systems Thinking and Value Chains
+  pageRef: /pages/instructor-insights/teaching-students-about-systems-thinking-and-value-chains
+  parent: 5b0c885f-3fac-fee9-cfd6-aca753d845eb
+  weight: 50
+- identifier: c8bbcf10-8403-0014-56fc-627f44af763b
+  name: Case Studies and Problem-based Learning
+  pageRef: /pages/instructor-insights/case-studies-and-problem-based-learning
+  parent: 5b0c885f-3fac-fee9-cfd6-aca753d845eb
+  weight: 60
+- identifier: 781d7232-9c8d-c266-6f39-a27702a0b1f7
+  name: Structuring Assignments and Setting Expectations
+  pageRef: /pages/instructor-insights/structuring-assignments-and-setting-expectations
+  parent: 5b0c885f-3fac-fee9-cfd6-aca753d845eb
+  weight: 70
+- identifier: 771d2998-6349-db27-afe7-73ca9183a26e
+  name: Impact
+  pageRef: /pages/instructor-insights/impact
+  parent: 5b0c885f-3fac-fee9-cfd6-aca753d845eb
+  weight: 80
+- identifier: 23872b06-c554-0fea-3a9f-f1a4d06c9209
+  name: Readings
+  pageRef: /pages/readings
+  weight: 90
+- identifier: c1497bcd-a2f0-d686-0f61-27a7bceffff7
+  name: Lecture Notes
+  pageRef: /pages/lecture-notes
+  weight: 100
+- identifier: 9f398e8a-2392-43d7-ea09-4c39d16fd3c2
+  name: Assignments
+  pageRef: /pages/assignments/
+  weight: 110
+- identifier: 9adde567-4a08-9351-827b-c51d0bf52b22
+  name: Managerial Briefing
+  pageRef: /pages/assignments/individual-managerial-briefing
+  parent: 9f398e8a-2392-43d7-ea09-4c39d16fd3c2
+  weight: 120
+- identifier: e53d3d56-ab3c-0bd5-9819-a1795522c836
+  name: Mini Case Portfolio
+  pageRef: /pages/assignments/mini-case-portfolio
+  parent: 9f398e8a-2392-43d7-ea09-4c39d16fd3c2
+  weight: 130
+- identifier: 3b4ca32b-96a6-bb2a-3c9b-97075fe806ef
+  name: Group Project Presentations
+  pageRef: /pages/assignments/group-project-presentations
+  parent: 9f398e8a-2392-43d7-ea09-4c39d16fd3c2
+  weight: 140
+- identifier: f2b0327e-f44d-38d8-da37-1fd506456195
+  name: Team Projects
+  pageRef: /pages/team-projects/
+  weight: 150
+- identifier: 2690398d-1b85-2fa3-dcc5-5ab541b9e665
+  name: 2013 Projects
+  pageRef: /pages/team-projects/current-projects
+  parent: f2b0327e-f44d-38d8-da37-1fd506456195
+  weight: 160
+- identifier: d7e16a8d-46bf-7030-1a15-da34a60e5743
+  name: Past Projects
+  pageRef: /pages/team-projects/past-projects
+  parent: f2b0327e-f44d-38d8-da37-1fd506456195
+  weight: 170
