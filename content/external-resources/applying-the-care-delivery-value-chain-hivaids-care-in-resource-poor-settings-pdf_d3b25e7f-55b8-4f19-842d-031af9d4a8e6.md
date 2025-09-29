@@ -2,6 +2,8 @@
 content_type: external-resource
 external_url: http://www.hbs.edu/faculty/Publication%20Files/09-093.pdf
 has_external_license_warning: true
+hide_download: true
+hide_download_original: null
 license: https://en.wikipedia.org/wiki/All_rights_reserved
 status: valid
 title: '"Applying the Care Delivery Value Chain: HIV/AIDS Care in Resource Poor Settings."

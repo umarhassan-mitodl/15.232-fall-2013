@@ -4,6 +4,8 @@ description: This resource contains information regarding scale and business mod
 file: /courses/15-232-business-model-innovation-global-health-in-frontier-markets-fall-2013/c4692ac8ae957e2f9b70c0028ed707bd_MIT15_232F13_Class1.pdf
 file_size: 3690649
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

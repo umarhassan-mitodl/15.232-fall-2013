@@ -5,6 +5,8 @@ description: 'This file contains the information regarding viral hepatitis: the 
 file: /courses/15-232-business-model-innovation-global-health-in-frontier-markets-fall-2013/a82bfdb94bc1c81faa1f303a1217f3f9_MIT15_232F13_a1_vrl-hep_1.pdf
 file_size: 741964
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

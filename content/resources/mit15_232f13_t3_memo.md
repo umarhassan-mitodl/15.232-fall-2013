@@ -4,6 +4,8 @@ description: 'This file contains the information regarding dtree: team memo.'
 file: /courses/15-232-business-model-innovation-global-health-in-frontier-markets-fall-2013/d139d8f6cae16636e703d5522f94da69_MIT15_232F13_t3_memo.pdf
 file_size: 158841
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
