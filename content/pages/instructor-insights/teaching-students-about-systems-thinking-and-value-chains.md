@@ -3,8 +3,6 @@ content_type: page
 description: Comments from the course instructor on teaching systems thinking and
   value chains, applying strategic thinking to analyzing organizations, and examining
   organizational operations.
-hide_download: true
-hide_download_original: null
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

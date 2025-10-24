@@ -5,8 +5,6 @@ description: This file contains the information regarding HIV/AIDS- a global hea
 file: /courses/15-232-business-model-innovation-global-health-in-frontier-markets-fall-2013/8ac561f542d1418dc8b816526af5520d_MIT15_232F13_a1_hiv-aids_2.pdf
 file_size: 197076
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

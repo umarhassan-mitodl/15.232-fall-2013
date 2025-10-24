@@ -2,8 +2,6 @@
 content_type: external-resource
 external_url: https://www.globalhealthdelivery.org/case-collection/case-studies/asia-and-middle-east/the-avahan-india-aids-initiative-managing-targeted
 has_external_license_warning: true
-hide_download: true
-hide_download_original: null
 license: https://en.wikipedia.org/wiki/All_rights_reserved
 status: valid
 title: 'The Avahan India AIDS Initiative: Managing Targeted HIV Prevention at Scale'

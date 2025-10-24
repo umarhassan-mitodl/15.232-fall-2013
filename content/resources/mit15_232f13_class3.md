@@ -5,8 +5,6 @@ description: This resource contains information regarding operational efficiency
 file: /courses/15-232-business-model-innovation-global-health-in-frontier-markets-fall-2013/f676b474847ef7a3cdbf2e3e3aaa0bf3_MIT15_232F13_Class3.pdf
 file_size: 1774250
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

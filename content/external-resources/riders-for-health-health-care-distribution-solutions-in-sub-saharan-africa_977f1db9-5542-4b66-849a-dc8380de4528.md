@@ -2,8 +2,6 @@
 content_type: external-resource
 external_url: https://www.gsb.stanford.edu/faculty-research/case-studies/riders-health-health-care-distribution-solutions-sub-saharan-africa
 has_external_license_warning: true
-hide_download: true
-hide_download_original: null
 license: https://en.wikipedia.org/wiki/All_rights_reserved
 status: valid
 title: Riders for Health. Health Care Distribution Solutions in Sub-Saharan Africa

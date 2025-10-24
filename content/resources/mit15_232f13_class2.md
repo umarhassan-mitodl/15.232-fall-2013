@@ -4,8 +4,6 @@ description: This resource contains information regarding cooperative approaches
 file: /courses/15-232-business-model-innovation-global-health-in-frontier-markets-fall-2013/2039e1e3769f9f9d275f0d57465cee8b_MIT15_232F13_Class2.pdf
 file_size: 983672
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

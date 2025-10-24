@@ -2,8 +2,6 @@
 content_type: external-resource
 external_url: https://www.ted.com/talks/thulasiraj_ravilla_how_low_cost_eye_care_can_be_world_class
 has_external_license_warning: true
-hide_download: true
-hide_download_original: null
 license: https://en.wikipedia.org/wiki/All_rights_reserved
 status: valid
 title: https://www.ted.com/talks/thulasiraj_ravilla_how_low_cost_eye_care_can_be_world_class

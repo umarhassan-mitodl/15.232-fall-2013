@@ -4,8 +4,6 @@ description: This resource contains information regarding systems thinking.
 file: /courses/15-232-business-model-innovation-global-health-in-frontier-markets-fall-2013/7909f0e05b6b476a44ff3be887f1142a_MIT15_232F13_Class7.pdf
 file_size: 1521819
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,8 +5,6 @@ description: 'This file contains the information regarding colaLife: team presen
 file: /courses/15-232-business-model-innovation-global-health-in-frontier-markets-fall-2013/cee8c5c47502c42d666c94f04e3b20e1_MIT15_232F13_t2_presentatn.pdf
 file_size: 1110696
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
