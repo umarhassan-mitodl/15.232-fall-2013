@@ -40,7 +40,7 @@ You may skip the first two minutes: the content starts at 2:04 and ends at 26:48
 
 ### Required Readings
 
-Kim, Peter, and Jeffrey Bradach. "[Why More Nonprofits Are Getting Bigger.](https://ssir.org/articles/entry/why_more_nonprofits_are_getting_bigger)" *Stanford Social Innovation Review*, Spring 2012.        
+Kim, Peter, and Jeffrey Bradach. "{{% resource_link "c739245e-84f1-48aa-a258-a40389271688" "Why More Nonprofits Are Getting Bigger." %}}" *Stanford Social Innovation Review*, Spring 2012.        
 A recent study found that the number of U.S. nonprofits with annual revenues of more than $50 million has increased dramatically.
 
 Rottenburg, Linda, and Rhett Morris. "{{% resource_link "4dfab6e2-452e-4991-b24d-b6c752211470" "If You Want to Scale Impact, Put Financial Results First" %}}." *Harvard Business Review*, January 9, 2013. *Harvard Business Review* (blog).        
@@ -51,7 +51,7 @@ Endeavor CEO Linda Rottenberg's & director of Endeavor Insight, Rhett Morris' in
 Magretta, Joan. "{{% resource_link "8ed849ab-feb5-47ad-9f0e-abe856189aae" "Why Business Models Matter" %}}." *Harvard Business Review*, May 2002.        
 For MBA/Management background students from HBR 2002, good intro on business models.
 
-Bradach, Jeffrey. "[Going to Scale: The Challenge of Replicating Social Programs.](https://ssir.org/articles/entry/going_to_scale#)" *Stanford Social Innovation Review*, Spring 2003, 19–25.
+Bradach, Jeffrey. "{{% resource_link "028e54a5-bdd4-496f-8d93-59dc62191611" "Going to Scale: The Challenge of Replicating Social Programs." %}}" *Stanford Social Innovation Review*, Spring 2003, 19–25.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
@@ -97,7 +97,7 @@ Lee, Hau, and Brian Tayan. "{{% resource_link "977f1db9-5542-4b66-849a-dc8380de4
 
 ### Required Readings
 
-Yadav, Prashant, Orla Stapleton, et al. "[Learning from Coca-Cola.](http://iaphl.org/wp-content/uploads/2016/05/SSIR-Winter_2013_Learning_From_Coca_Cola-1.pdf)" *Stanford Social Innovation Review*, Winter 2013.
+Yadav, Prashant, Orla Stapleton, et al. "{{% resource_link "4c157aff-00d3-4169-be6b-b354f4358627" "Learning from Coca-Cola." %}}" *Stanford Social Innovation Review*, Winter 2013.
 
 ### Required Video
 
@@ -169,11 +169,11 @@ Case discussion: SMS for Life
 
 Moncef, Anna, and Donald A. Marchand. {{% resource_link "e1d5ea3f-5536-44af-94b4-c2d67c1195bc" "\"SMS for Life (A): A Public-private Collaboration to Prevent Stock-outs of Life-saving Malaria Drugs in Africa.\" (PDF)" %}} IMD-3–2168, 2012.
 
-Kania, John, and Mark Kramer. "[Collective Impact.](https://ssir.org/articles/entry/collective_impact)" *Stanford Social Innovation Review*, Winter 2011.
+Kania, John, and Mark Kramer. "{{% resource_link "51950969-7f70-471a-8f5e-840807c1aa47" "Collective Impact." %}}" *Stanford Social Innovation Review*, Winter 2011.
 
 ### Required Reading
 
-Gupta, Anil K. "[Tapping the Entrepreneurial Potential of Grassroots Innovation.](https://ssir.org/articles/entry/tapping_the_entrepreneurial_potential_of_grassroots_innovation)" *Supplement to Stanford Social Innovation Review*, Summer 2013.
+Gupta, Anil K. "{{% resource_link "17e2af80-9a77-46a9-91aa-89f938020184" "Tapping the Entrepreneurial Potential of Grassroots Innovation." %}}" *Supplement to Stanford Social Innovation Review*, Summer 2013.
 
 ### Optional Readings
 
@@ -283,9 +283,9 @@ Read and carefully consider the following along with the executive summaries pro
 
 ### Required Readings
 
-Milway, Katie Smith, and Amy Saxton. "[The Challenge of Organizational Learning.](https://ssir.org/articles/entry/the_challenge_of_organizational_learning)" *Stanford Social Innovation Review*, Summer 2011.
+Milway, Katie Smith, and Amy Saxton. "{{% resource_link "24402ccf-ca51-4183-811f-43ac7537dfa8" "The Challenge of Organizational Learning." %}}" *Stanford Social Innovation Review*, Summer 2011.
 
-Seelos, Christian, and Johanna Mail. "[Innovate and Scale: A Tough Balancing Act.](https://ssir.org/articles/entry/innovate_and_scale_a_tough_balancing_act)" *Supplement to Stanford Social Innovation Review*, Summer 2013.
+Seelos, Christian, and Johanna Mail. "{{% resource_link "464ff735-fb7a-4f71-8463-4e8b1257d66d" "Innovate and Scale: A Tough Balancing Act." %}}" *Supplement to Stanford Social Innovation Review*, Summer 2013.
 
 {{% resource_link "c929bc87-aca6-4ea1-5e8b-18caa15423cf" "Rebecca Weintraub biography (PDF)" %}}
 
@@ -307,7 +307,7 @@ Read and carefully consider the following along with the executive summaries pro
 
 Govindrajan, Vijay, and Chris Trimble. "Partners in Health's Radical Model for Care: Adapting Emerging-Market Healthcare Innovations to Rich-World Populations." Harvard Business Press Chapters. April 10, 2012. Prod. # 9211BC-PDF-ENG.
 
-Onie, Rebecca, Paul Farmer, et al. "[Realigning Health with Care.](https://ssir.org/articles/entry/realigning_health_with_care#:~:text=Moving%20health%20resources%20from%20clinics,and%20quality%20of%20health%20care.)" *Stanford Social Innovation Review*, Summer 2012.
+Onie, Rebecca, Paul Farmer, et al. "{{% resource_link "4b450dbf-561a-4288-82cb-07e1eee15f2f" "Realigning Health with Care." %}}" *Stanford Social Innovation Review*, Summer 2012.
 
 {{% resource_link "f58da516-31ff-a92b-7dda-bbbb979ae8dc" "Tricia Morente biography (PDF)" %}}
 
